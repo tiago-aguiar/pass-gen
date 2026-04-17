@@ -1,6 +1,6 @@
 # Pass Gen
 
-The simplest password generator with clipboard feature.
+The simplest password generator with clipboard feature (macOS only feature).
 
 To compile and run, execute:
 
